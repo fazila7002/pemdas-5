@@ -2,4 +2,7 @@
 using namespace std;
 
 int main() {
-    int x; }
+    int x;
+
+cout<<"PERULANGAN FOR"<<endl;
+cout<<endl;}
